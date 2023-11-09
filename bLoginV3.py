@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 username = "rw.powerapps@bboxx.com"
-password = "Ny7NYHVgMbg9KYXW"
+password = "Ny7NYHVgMbg9#KYXW"
 
 class Browser:
     def __init__(self):
